@@ -1,5 +1,7 @@
 # Community
-Apps and Samples submitted from community members
+Apps and Samples submitted from community members.
+
+**Click on the *.md files in this repository to browse and deploy community submissions**
 
 ## How to Submit ##
 
